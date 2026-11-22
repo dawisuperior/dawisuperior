@@ -57,11 +57,11 @@ I'm **Danielle Setenta**, a Manila-based **UI/UX and Multimedia Designer** focus
 
 ### ─── ✦ 𝔖𝔲𝔪𝔪𝔬𝔫 & ℭ𝔬𝔫𝔫𝔢𝔠𝔱 ✦ ───
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E5E5E5)](https://www.linkedin.com/in/danielle-setenta-528300189/)
-[![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E5E5E5)](https://www.instagram.com/saintdawi/)
-[![Facebook](https://img.shields.io/badge/Facebook-0D0D0D?style=for-the-badge&logo=facebook&logoColor=E5E5E5)](https://www.facebook.com/superior.dawi)
-[![X](https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=E5E5E5)](https://x.com/bsjzhfbzucn)
-[![Email](https://img.shields.io/badge/Email-4A0404?style=for-the-badge&logo=gmail&logoColor=E5E5E5)](mailto:kurtatnetes420@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/danielle-setenta-528300189/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/saintdawi/)
+[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/superior.dawi)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/bsjzhfbzucn)
+[![Email](https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:kurtatnetes420@gmail.com)
 
 <br/>
 
