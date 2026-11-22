@@ -8,12 +8,6 @@
 
 *Blending dark-crafted Figma design systems, AI-assisted UI prototyping, publication materials & atmospheric video editing.*
 
-<br/>
-
-<img src="https://i.imgflip.com/b6h0xv.gif" alt="Dawi Banner" width="480" />
-
-<br/>
-
 ♱ ══════════ ✧ ══════════ ♱
 
 </div>
@@ -71,6 +65,6 @@ I'm **Danielle Setenta**, a Manila-based **UI/UX and Multimedia Designer** focus
 
 <br/>
 
-<sub>♱ <i>Crafted in Obsidian & Crimson • Manila, PH</i> ♱</sub>
+<sub>♱ <i>To sin is human, to forgive is divine • Manila, PH</i> ♱</sub>
 
 </div>
