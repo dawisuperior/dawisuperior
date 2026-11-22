@@ -61,7 +61,7 @@ I'm **Danielle Setenta**, a Manila-based **UI/UX and Multimedia Designer** focus
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/saintdawi/)
 [![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/superior.dawi)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/bsjzhfbzucn)
-[![Email](https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:kurtatnetes420@gmail.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:kurtatnetes420@gmail.com)
 
 <br/>
 
