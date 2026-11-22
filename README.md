@@ -30,6 +30,11 @@ I'm **Danielle Setenta**, a Manila-based **UI/UX and Multimedia Designer** focus
 <div align="center">
 
 ![Figma](https://img.shields.io/badge/Figma-0D0D0D?style=for-the-badge&logo=figma&logoColor=DC143C)
+![Canva](https://img.shields.io/badge/Canva-0D0D0D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0RDMTQzQyIgZD0iTTEyIDJhMTAgMTAgMCAxIDAgMCAyMCAxMCAxMCAwIDAgMCAwLTIwem0zLjUgMTMuMmE0LjggNC44IDAgMSAxIDAtNi40bC0xLjUgMS4zYTIuOCAyLjggMCAxIDAgMCAzLjhsMS41IDEuM3oiLz48L3N2Zz4=)
+![Blender](https://img.shields.io/badge/Blender-0D0D0D?style=for-the-badge&logo=blender&logoColor=DC143C)
+![Framer](https://img.shields.io/badge/Framer-0D0D0D?style=for-the-badge&logo=framer&logoColor=DC143C)
+![CapCut](https://img.shields.io/badge/CapCut-0D0D0D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0RDMTQzQyIgZD0iTTMgNWw5IDUuNUwyMSA1djMuMkwxNC41IDEyIDIxIDE1LjhWMTlsLTktNS41TDMgMTl2LTMuMkw5LjUgMTIgMyA4LjJWNXoiLz48L3N2Zz4=)
+![Dribbble](https://img.shields.io/badge/Dribbble-0D0D0D?style=for-the-badge&logo=dribbble&logoColor=DC143C)
 ![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=DC143C)
 ![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=DC143C)
 ![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=DC143C)
@@ -53,6 +58,8 @@ I'm **Danielle Setenta**, a Manila-based **UI/UX and Multimedia Designer** focus
 ### ─── ✦ 𝔖𝔲𝔪𝔪𝔬𝔫 & ℭ𝔬𝔫𝔫𝔢𝔠𝔱 ✦ ───
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E5E5E5)](https://www.linkedin.com/in/danielle-setenta-528300189/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E5E5E5)](https://www.instagram.com/saintdawi/)
+[![Facebook](https://img.shields.io/badge/Facebook-0D0D0D?style=for-the-badge&logo=facebook&logoColor=E5E5E5)](https://www.facebook.com/superior.dawi)
 [![X](https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=E5E5E5)](https://x.com/bsjzhfbzucn)
 [![Email](https://img.shields.io/badge/Email-4A0404?style=for-the-badge&logo=gmail&logoColor=E5E5E5)](mailto:kurtatnetes420@gmail.com)
 
