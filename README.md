@@ -65,6 +65,6 @@ I'm **Danielle Setenta**, a Manila-based **UI/UX and Multimedia Designer** focus
 
 <br/>
 
-<sub>♱ <i>Crafted in Obsidian & Crimson • Manila, PH</i> ♱</sub>
+<sub>♱ <i>To sin is human, to forgive is divine • Manila, PH</i> ♱</sub>
 
 </div>
